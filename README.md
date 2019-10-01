@@ -11,3 +11,15 @@ The basic idea is simple: given a bunch of comments that have been either catego
 * Logistic regression with different penalities
 * Multinomial Naive Bayes
 * First, import everything that's needed.
+
+# Requirements
+
+The project is entirely Python and was built using a Jupyter Notebook. Having Anaconda (or similar Python distribution with Jupyter Notebook) is required. A number of libraries are also used, which can be installed using `pip install <LIBRARY_NAME>`. Included in this list are:
+
+* pandas
+* numpy
+* sklearn.feature_extraction.text TfidfVectorizer
+* sklearn.naive_bayes MultinomialNB
+* sklearn.linear_model LogisticRegression
+* sklearn.model_selection train_test_split
+* sklearn.metrics accuracy_score
