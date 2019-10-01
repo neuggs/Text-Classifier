@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Frank Neugebauer's Text Classifier GitHub
 
 You can use the [editor on GitHub](https://github.com/neuggs/Text-Classifier/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
