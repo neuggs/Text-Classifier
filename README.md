@@ -27,5 +27,7 @@ The project is entirely Python and was built using a Jupyter Notebook. Having An
 * nltk.tokenize word_tokenize 
 
 For the NLTK stop words, you'll need to run the following Python code (you can run it in the Notebook or from any Python program). It downloads the stopwords.
+
 `import nltk`
 `nltk.download('stopwords')`
+`nltk.download('punkt')`
