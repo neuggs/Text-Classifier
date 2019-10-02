@@ -5,7 +5,7 @@ The basic idea is simple: given a bunch of comments that have been either catego
 ## Some of what's demonstrated:
 
 * Reading JSON files
-* Sampling to increase performance
+* Sampling to increase performance and evenly sample source data
 * Pipelines
 * Logistic regression
 * Multinomial Naive Bayes
@@ -15,7 +15,6 @@ The basic idea is simple: given a bunch of comments that have been either catego
 The project is entirely Python and was built using a Jupyter Notebook. Having Anaconda (or similar Python distribution with Jupyter Notebook) is required. A number of libraries are also used, which can be installed using `pip install <LIBRARY_NAME>`. Included in this list are:
 
 * pandas
-* numpy
 * sklearn.feature_extraction.text TfidfVectorizer
 * sklearn.naive_bayes MultinomialNB
 * sklearn.linear_model LogisticRegression
