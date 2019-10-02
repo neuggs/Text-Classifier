@@ -21,3 +21,6 @@ The project is entirely Python and was built using a Jupyter Notebook. Having An
 * sklearn.model_selection train_test_split
 * sklearn.metrics accuracy_score
 
+## To Use
+
+The critical file is [https://github.com/neuggs/Text-Classifier/blob/master/text_classifiers.ipynb](test_classifiers.ipynb).
